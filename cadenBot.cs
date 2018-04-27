@@ -20,7 +20,7 @@ namespace cadenBot
 
             discord.ExecuteAndWait(async ()=>
             {
-                await discord.Connect("NDM5NTI5MjUxMDYyOTM5NjQ5.DcUfDw.VQnAnAMVC6iy18sWStfJBuFXeaA");
+                await discord.Connect("TOKEN");
             });
         }
 
